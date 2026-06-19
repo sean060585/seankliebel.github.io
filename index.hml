@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sean’s Cybersecurity Portfolio</title>
+
+    <!-- Your CSS goes RIGHT HERE -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<nav class="navbar">
+    <a href="index.html">Home</a>
+    <a href="labs/pfsense.html">pfSense</a>
+    <a href="labs/wazuh.html">Wazuh SIEM</a>
+    <a href="labs/kali.html">Kali Testing</a>
+    <a href="labs/windows.html">Windows Logs</a>
+</nav>
+
+<div class="container">
+    <h1>Welcome to Sean’s Cybersecurity Portfolio</h1>
+</div>
+
+</body>
+</html>
+
